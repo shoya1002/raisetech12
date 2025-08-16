@@ -23,6 +23,6 @@ public class Book {
    }
 @Override
    public String toString(){
-       return "タイトル：" + title + ",著者：" + ",番号：" + number;
+       return "タイトル：" + title + ",著者：" + author +",番号：" + number;
    }
 }
